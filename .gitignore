@@ -1,0 +1,18 @@
+# --- Build artifacts ---
+*.o
+*.out
+process_manager
+
+# --- IDE / editor files ---
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- OS-generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs / temp captures (keep intentional ones under results/) ---
+*.log
+*.tmp
