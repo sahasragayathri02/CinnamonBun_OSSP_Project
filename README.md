@@ -349,7 +349,7 @@ Through this project, concepts such as `fork()`, `execvp()`, `waitpid()`, PID, P
 
 ### Supervisor
 
-Dr.V. Muniraju Naidu
+[Dr.V. Muniraju Naidu]
 
 ---
 
