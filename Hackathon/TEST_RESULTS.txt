@@ -1,0 +1,14 @@
+Actual test results from package build
+======================================
+./tests/test_pipeline.sh
+PASS: 2-stage pipeline
+PASS: 3-stage pipeline
+PASS: 4-stage pipeline
+PASS: 5-stage pipeline
+PASS: empty input
+PASS: large input (20,000 lines)
+PASS: invalid command (non-zero exit 1 as expected)
+PASS: command failure in pipeline (non-zero exit 1 as expected)
+PASS: logged concurrent pipeline
+
+Test summary: 9 passed, 0 failed

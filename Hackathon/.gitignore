@@ -1,0 +1,3 @@
+pipeline
+*.o
+.DS_Store
